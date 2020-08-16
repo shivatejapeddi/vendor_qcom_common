@@ -52,3 +52,7 @@ PRODUCT_PACKAGES += \
     workloadclassifier \
     QPerformance \
     UxPerformance
+
+PRODUCT_BOOT_JARS += \
+    QPerformance \
+    UxPerformance
